@@ -1,0 +1,236 @@
+{
+  "categories": [
+    {
+      "id": "animals",
+      "name": "Animals",
+      "icon": "paw",
+      "description": "Animals from around the world",
+      "words": [
+        "Lion", "Tiger", "Elephant", "Giraffe", "Zebra", "Hippo", "Rhino", "Monkey", "Gorilla", "Chimpanzee",
+        "Orangutan", "Kangaroo", "Koala", "Panda", "Polar Bear", "Brown Bear", "Wolf", "Fox", "Deer", "Moose",
+        "Reindeer", "Rabbit", "Squirrel", "Chipmunk", "Hedgehog", "Raccoon", "Skunk", "Beaver", "Otter", "Sloth",
+        "Armadillo", "Camel", "Horse", "Donkey", "Cow", "Pig", "Sheep", "Goat", "Chicken", "Duck",
+        "Goose", "Turkey", "Owl", "Eagle", "Parrot", "Penguin", "Flamingo", "Peacock", "Swan", "Pigeon",
+        "Crow", "Hummingbird", "Woodpecker", "Ostrich", "Toucan", "Seagull", "Pelican", "Vulture", "Bat", "Mouse",
+        "Hamster", "Guinea Pig", "Cat", "Dog", "Chameleon", "Iguana", "Gecko", "Crocodile", "Snake", "Turtle",
+        "Frog", "Shark", "Whale", "Dolphin", "Octopus", "Jellyfish", "Starfish", "Seahorse", "Crab", "Lobster",
+        "Clownfish", "Goldfish", "Stingray", "Seal", "Walrus", "Narwhal", "Butterfly", "Bee", "Ant", "Spider",
+        "Ladybug", "Mosquito", "Dragonfly", "Grasshopper", "Caterpillar", "Snail", "Scorpion", "Firefly", "Leopard", "Cheetah",
+        "Jaguar", "Hyena", "Meerkat", "Warthog", "Lemur", "Llama", "Buffalo", "Mole", "Porcupine", "Platypus",
+        "Komodo Dragon", "Anteater", "Badger", "Ferret", "Gazelle", "Wombat", "Earthworm"
+      ]
+    },
+    {
+      "id": "fruits",
+      "name": "Fruits",
+      "icon": "apple",
+      "description": "Juicy fruits and fruity treats",
+      "words": [
+        "Apple", "Banana", "Orange", "Mango", "Pineapple", "Strawberry", "Grapes", "Watermelon", "Cherry", "Peach",
+        "Pear", "Plum", "Kiwi", "Lemon", "Lime", "Coconut", "Papaya", "Pomegranate", "Blueberry", "Raspberry",
+        "Blackberry", "Cranberry", "Apricot", "Avocado", "Fig", "Date", "Guava", "Lychee", "Passion Fruit", "Dragon Fruit",
+        "Grapefruit", "Tangerine", "Clementine", "Cantaloupe", "Honeydew", "Nectarine", "Persimmon", "Star Fruit", "Jackfruit", "Durian",
+        "Rambutan", "Mangosteen", "Kumquat", "Gooseberry", "Blackcurrant", "Redcurrant", "Elderberry", "Mulberry", "Boysenberry", "Huckleberry",
+        "Lingonberry", "Cloudberry", "Quince", "Tamarind", "Plantain", "Olive", "Tomato", "Custard Apple", "Soursop", "Breadfruit",
+        "Feijoa", "Loquat", "Longan", "Yuzu", "Blood Orange", "Pomelo", "Ugli Fruit", "Horned Melon", "Acai Berry", "Goji Berry",
+        "Prickly Pear", "Raisin", "Prune", "Snake Fruit", "Mandarin", "Fruit Salad", "Fruit Basket", "Smoothie", "Lemonade", "Orange Juice",
+        "Jam", "Marmalade", "Applesauce", "Banana Split", "Candy Apple", "Fruit Punch", "Dried Mango", "Maraschino Cherry", "Coconut Water", "Orchard",
+        "Fruit Fly", "Banana Bread", "Pineapple Pizza", "Mango Lassi", "Strawberry Shortcake", "Peach Cobbler", "Apple Cider", "Fruit Stand", "Apple Tree", "Watermelon Seeds",
+        "Berry Picking", "Grapevine", "Frozen Banana", "Fruit Tart", "Tutti Frutti", "Fruitcake"
+      ]
+    },
+    {
+      "id": "food",
+      "name": "Food",
+      "icon": "utensils",
+      "description": "Meals, snacks, sweets and veggies",
+      "words": [
+        "Pizza", "Burger", "Sushi", "Spaghetti", "Lasagna", "Taco", "Burrito", "Nachos", "Quesadilla", "Hot Dog",
+        "French Fries", "Fried Chicken", "Chicken Nuggets", "Sandwich", "Grilled Cheese", "Pancakes", "Waffles", "French Toast", "Omelette", "Scrambled Eggs",
+        "Bacon", "Sausage", "Cereal", "Oatmeal", "Toast", "Bagel", "Croissant", "Muffin", "Cupcake", "Donut",
+        "Brownie", "Cookie", "Cheesecake", "Ice Cream", "Popsicle", "Milkshake", "Chocolate", "Popcorn", "Pretzel", "Potato Chips",
+        "Mashed Potatoes", "Baked Potato", "Caesar Salad", "Chicken Soup", "Ramen", "Fried Rice", "Dumplings", "Spring Rolls", "Curry", "Biryani",
+        "Butter Chicken", "Naan", "Samosa", "Falafel", "Hummus", "Kebab", "Shawarma", "Steak", "Meatballs", "Roast Turkey",
+        "Fish and Chips", "Shrimp", "Oysters", "Mac and Cheese", "Yogurt", "Butter", "Honey", "Peanut Butter", "Rice", "Corn on the Cob",
+        "Apple Pie", "Pudding", "Cotton Candy", "Lollipop", "Gummy Bears", "Marshmallow", "Caramel", "Tiramisu", "Macaron", "Churros",
+        "Crepe", "Risotto", "Paella", "Fondue", "Quiche", "Pad Thai", "Pho", "Tempura", "Kimchi", "Mochi",
+        "Tofu", "Chili", "Gravy", "Ketchup", "Mayonnaise", "Mustard", "Salsa", "Guacamole", "Hash Browns", "Onion Rings",
+        "Coleslaw", "Garlic Bread", "Corn Dog", "Carrot", "Broccoli", "Cucumber", "Lettuce", "Spinach", "Pumpkin", "Mushroom",
+        "Bell Pepper", "Eggplant", "Cauliflower", "Peas"
+      ]
+    },
+    {
+      "id": "objects",
+      "name": "Objects",
+      "icon": "lamp",
+      "description": "Everyday things and funny household finds",
+      "words": [
+        "Toilet Brush", "Rubber Duck", "Plunger", "Slippers", "Remote Control", "Banana Peel", "Bubble Wrap", "Umbrella", "Toothbrush", "Toothpaste",
+        "Hairbrush", "Mirror", "Pillow", "Blanket", "Alarm Clock", "Ceiling Fan", "Candle", "Scissors", "Stapler", "Paper Clip",
+        "Pencil", "Eraser", "Ruler", "Backpack", "Wallet", "Keys", "Sunglasses", "Headphones", "Phone Charger", "Laptop",
+        "Computer Mouse", "Television", "Microwave", "Toaster", "Kettle", "Frying Pan", "Spatula", "Whisk", "Teapot", "Coffee Mug",
+        "Fork", "Chopsticks", "Water Bottle", "Lunch Box", "Trash Can", "Broom", "Mop", "Bucket", "Vacuum Cleaner", "Iron",
+        "Washing Machine", "Coat Hanger", "Sock", "Flip-Flops", "Rain Boots", "Necktie", "Bow Tie", "Wristwatch", "Necklace", "Teddy Bear",
+        "Yo-Yo", "Kite", "Balloon", "Whoopee Cushion", "Fake Mustache", "Garden Gnome", "Lava Lamp", "Disco Ball", "Snow Globe", "Piggy Bank",
+        "Fly Swatter", "Back Scratcher", "Lint Roller", "Sticky Note", "Duct Tape", "Glue Stick", "Magnifying Glass", "Flashlight", "Battery", "Light Bulb",
+        "Extension Cord", "Doorbell", "Doormat", "Mailbox", "Hammer", "Screwdriver", "Ladder", "Tape Measure", "Wheelbarrow", "Watering Can",
+        "Flower Pot", "Bathtub", "Shower Curtain", "Toilet Paper", "Hair Dryer", "Nail Clippers", "Tweezers", "Cotton Swab", "Bandage", "Thermometer",
+        "Calculator", "Globe", "Suitcase", "Tissue Box", "Ice Cube Tray", "Cookie Jar", "Salt Shaker", "Bottle Opener", "Rolling Pin", "Oven Mitt",
+        "Cheese Grater", "Pizza Cutter", "Egg Timer", "Picture Frame", "Curtains", "Bean Bag", "Hammock", "Rocking Chair", "Bunk Bed", "Stroller"
+      ]
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "icon": "trophy",
+      "description": "Sports, gear and big game moments",
+      "words": [
+        "Soccer", "Basketball", "Tennis", "Baseball", "Golf", "Volleyball", "Cricket", "Rugby", "Ice Hockey", "Badminton",
+        "Table Tennis", "Boxing", "Wrestling", "Swimming", "Diving", "Surfing", "Skateboarding", "Snowboarding", "Skiing", "Cycling",
+        "Marathon", "Gymnastics", "Figure Skating", "Curling", "Bobsleigh", "Archery", "Fencing", "Judo", "Karate", "Taekwondo",
+        "Sumo", "Rowing", "Kayaking", "Sailing", "Water Polo", "Rock Climbing", "BMX", "Motocross", "Formula One", "Horse Racing",
+        "Bowling", "Darts", "Billiards", "Handball", "Lacrosse", "Softball", "American Football", "Dodgeball", "Ultimate Frisbee", "Squash",
+        "Pickleball", "Weightlifting", "Triathlon", "Parkour", "Skydiving", "Bungee Jumping", "Paragliding", "Trampoline", "Cheerleading", "Tug of War",
+        "Kabaddi", "Netball", "Mini Golf", "Roller Derby", "Water Skiing", "Hurdles", "High Jump", "Long Jump", "Pole Vault", "Javelin",
+        "Shot Put", "Slam Dunk", "Home Run", "Touchdown", "Hat Trick", "Penalty Kick", "Referee", "Stadium", "Trophy", "Gold Medal",
+        "Olympics", "World Cup", "Goalkeeper", "Whistle", "Scoreboard", "Locker Room", "Finish Line", "Team Mascot", "Jersey", "Helmet",
+        "Boxing Gloves", "Tennis Racket", "Golf Club", "Hockey Puck", "Shuttlecock", "Surfboard", "Stopwatch", "Halftime", "Free Throw", "Red Card",
+        "Hole in One", "Knockout", "Grand Slam", "Relay Race", "Victory Lap", "Podium", "Coach", "Bullseye", "Photo Finish", "Mexican Wave"
+      ]
+    },
+    {
+      "id": "movies",
+      "name": "Movies",
+      "icon": "clapperboard",
+      "description": "Famous films everyone has heard of",
+      "words": [
+        "Titanic", "Avatar", "Jaws", "Frozen", "Toy Story", "The Lion King", "Finding Nemo", "Shrek", "Up", "Coco",
+        "Moana", "Aladdin", "Cinderella", "Beauty and the Beast", "The Little Mermaid", "Mulan", "Zootopia", "Inside Out", "Cars", "Ratatouille",
+        "WALL-E", "Monsters, Inc.", "The Incredibles", "Despicable Me", "Minions", "Kung Fu Panda", "Madagascar", "Ice Age", "How to Train Your Dragon", "Encanto",
+        "Star Wars", "Jurassic Park", "Harry Potter", "The Lord of the Rings", "The Hobbit", "The Matrix", "Inception", "Interstellar", "The Dark Knight", "Spider-Man",
+        "Iron Man", "Black Panther", "The Avengers", "Captain America", "Thor", "Guardians of the Galaxy", "Wonder Woman", "Superman", "Aquaman", "Joker",
+        "Back to the Future", "E.T.", "Ghostbusters", "Home Alone", "Forrest Gump", "The Godfather", "Rocky", "Top Gun", "Mission: Impossible", "Pirates of the Caribbean",
+        "Indiana Jones", "Transformers", "Fast & Furious", "The Hunger Games", "Twilight", "Mean Girls", "Grease", "The Sound of Music", "Mary Poppins", "The Wizard of Oz",
+        "Charlie and the Chocolate Factory", "Matilda", "Night at the Museum", "Jumanji", "Men in Black", "Independence Day", "King Kong", "Godzilla", "Gladiator", "Barbie",
+        "Oppenheimer", "Dune", "The Karate Kid", "Paddington", "Mamma Mia!", "La La Land", "The Greatest Showman", "Elf", "The Polar Express", "Tangled",
+        "Wreck-It Ralph", "Big Hero 6", "Lilo & Stitch", "Hercules", "Tarzan", "Pinocchio", "Dumbo", "Bambi", "The Jungle Book", "Peter Pan",
+        "Snow White", "101 Dalmatians", "The Truman Show", "Groundhog Day", "The Mask", "Cast Away", "The Martian", "Casablanca", "Star Trek", "Planet of the Apes",
+        "The Terminator", "The Secret Life of Pets", "Sing", "Trolls", "Hotel Transylvania", "The Lego Movie", "Puss in Boots", "Coraline", "The Nightmare Before Christmas", "Free Willy"
+      ]
+    },
+    {
+      "id": "brands",
+      "name": "Brands",
+      "icon": "tag",
+      "description": "Logos you see every day",
+      "words": [
+        "Apple", "Google", "Microsoft", "Amazon", "Netflix", "YouTube", "Instagram", "TikTok", "Facebook", "WhatsApp",
+        "Spotify", "Disney", "Nike", "Adidas", "Puma", "Coca-Cola", "Pepsi", "McDonald's", "KFC", "Burger King",
+        "Subway", "Starbucks", "Domino's", "Pizza Hut", "Nestlé", "KitKat", "Oreo", "Lego", "Barbie", "Hot Wheels",
+        "Nintendo", "PlayStation", "Xbox", "Samsung", "Sony", "Tesla", "Toyota", "Honda", "BMW", "Mercedes-Benz",
+        "Ferrari", "Lamborghini", "Ford", "Volkswagen", "Audi", "Porsche", "Rolex", "Gucci", "Louis Vuitton", "Chanel",
+        "Zara", "H&M", "IKEA", "Walmart", "eBay", "Uber", "Airbnb", "Visa", "PayPal", "Intel",
+        "Canon", "GoPro", "Dell", "Lenovo", "LG", "Dyson", "Red Bull", "Heinz", "Kellogg's", "Nutella",
+        "Pringles", "Doritos", "M&M's", "Skittles", "Haribo", "Toblerone", "Colgate", "Gillette", "Nivea", "L'Oréal",
+        "Crocs", "Converse", "Vans", "Levi's", "Ray-Ban", "Hello Kitty", "Marvel", "Duolingo", "Zoom", "Snapchat",
+        "Pinterest", "LinkedIn", "Pixar", "Hasbro", "FedEx", "Shell", "Emirates", "Boeing", "Nokia", "Huawei",
+        "Mastercard", "Target", "Nvidia", "Philips", "Under Armour", "Jeep", "Tupperware", "Post-it"
+      ]
+    },
+    {
+      "id": "games",
+      "name": "Games",
+      "icon": "gamepad",
+      "description": "Video games, board games and playground classics",
+      "words": [
+        "Minecraft", "Fortnite", "Roblox", "Among Us", "Tetris", "Pac-Man", "Super Mario", "The Legend of Zelda", "Pokémon", "Sonic the Hedgehog",
+        "Angry Birds", "Candy Crush", "Clash of Clans", "Clash Royale", "Subway Surfers", "Temple Run", "Fruit Ninja", "Flappy Bird", "Pong", "Space Invaders",
+        "Street Fighter", "Call of Duty", "FIFA", "Mario Kart", "Animal Crossing", "The Sims", "Halo", "Overwatch", "League of Legends", "Valorant",
+        "Rocket League", "Fall Guys", "Stardew Valley", "Portal", "Skyrim", "Elden Ring", "Genshin Impact", "Just Dance", "Guitar Hero", "Wii Sports",
+        "Donkey Kong", "Kirby", "Crash Bandicoot", "Plants vs. Zombies", "Cut the Rope", "Wordle", "Sudoku", "Crossword", "Solitaire", "Minesweeper",
+        "Chess", "Checkers", "Monopoly", "Scrabble", "Uno", "Jenga", "Twister", "Clue", "Battleship", "Connect Four",
+        "Snakes and Ladders", "Ludo", "Backgammon", "Dominoes", "Mahjong", "Poker", "Go Fish", "Hide and Seek", "Freeze Tag", "Musical Chairs",
+        "Hopscotch", "Charades", "Pictionary", "Trivial Pursuit", "Operation", "Guess Who", "Hungry Hungry Hippos", "Simon Says", "Rock Paper Scissors", "Tic-Tac-Toe",
+        "Hangman", "Bingo", "Dungeons & Dragons", "Catan", "Ticket to Ride", "Risk", "Yahtzee", "Rubik's Cube", "Jigsaw Puzzle", "Foosball",
+        "Air Hockey", "Pinball", "Duck Hunt", "Frogger", "Asteroids", "Spyro", "Apex Legends", "Terraria", "Splatoon", "Super Smash Bros.",
+        "Tamagotchi", "Marbles", "Hot Potato", "Red Light Green Light", "Mouse Trap", "Limbo"
+      ]
+    },
+    {
+      "id": "anime",
+      "name": "Anime",
+      "icon": "sparkles",
+      "description": "Popular anime shows, films and characters",
+      "words": [
+        "Naruto", "One Piece", "Dragon Ball", "Attack on Titan", "Death Note", "Demon Slayer", "My Hero Academia", "Jujutsu Kaisen", "Spirited Away", "My Neighbor Totoro",
+        "Howl's Moving Castle", "Princess Mononoke", "Kiki's Delivery Service", "Ponyo", "Your Name", "Sailor Moon", "Cowboy Bebop", "Fullmetal Alchemist", "Hunter x Hunter", "Bleach",
+        "One-Punch Man", "Tokyo Ghoul", "Sword Art Online", "Neon Genesis Evangelion", "Haikyu!!", "Spy x Family", "Chainsaw Man", "Mob Psycho 100", "Fairy Tail", "Black Clover",
+        "Doraemon", "Detective Conan", "Yu-Gi-Oh!", "Digimon", "Beyblade", "Pikachu", "Goku", "Vegeta", "Luffy", "Zoro",
+        "Ash Ketchum", "Sasuke", "Kakashi", "Light Yagami", "Tanjiro", "Nezuko", "Deku", "All Might", "Gojo", "Eren Yeager",
+        "Levi Ackerman", "Mikasa", "No-Face", "Edward Elric", "Saitama", "Spike Spiegel", "Astro Boy", "Akira", "Ghost in the Shell", "Grave of the Fireflies",
+        "Castle in the Sky", "Weathering with You", "A Silent Voice", "Steins;Gate", "Code Geass", "Inuyasha", "Dr. Stone", "The Promised Neverland", "Vinland Saga", "Blue Lock",
+        "Frieren", "Oshi no Ko", "Violet Evergarden", "Fruits Basket", "Kuroko's Basketball", "Slam Dunk", "Hamtaro", "Studio Ghibli", "Manga", "Cosplay",
+        "Kamehameha", "Super Saiyan", "Poké Ball", "Straw Hat", "Rasengan", "Sharingan", "Itachi", "Gaara", "Sanji", "Nami",
+        "Tony Tony Chopper", "Gon", "Killua", "Ichigo", "Kirito", "Lelouch", "Ryuk", "Anya Forger", "Denji", "Pochita",
+        "Frieza", "Piccolo", "Gohan", "Sukuna", "Makima", "Senpai", "Kawaii", "Chibi"
+      ]
+    },
+    {
+      "id": "hollywood",
+      "name": "Hollywood",
+      "icon": "star",
+      "description": "Movie stars, directors and red-carpet life",
+      "words": [
+        "Tom Hanks", "Tom Cruise", "Leonardo DiCaprio", "Brad Pitt", "Denzel Washington", "Morgan Freeman", "Meryl Streep", "Julia Roberts", "Sandra Bullock", "Angelina Jolie",
+        "Jennifer Lawrence", "Scarlett Johansson", "Robert Downey Jr.", "Chris Hemsworth", "Chris Evans", "Chris Pratt", "Dwayne Johnson", "Keanu Reeves", "Ryan Reynolds", "Ryan Gosling",
+        "Margot Robbie", "Emma Stone", "Emma Watson", "Zendaya", "Tom Holland", "Timothée Chalamet", "Natalie Portman", "Anne Hathaway", "Nicole Kidman", "Viola Davis",
+        "Halle Berry", "Jennifer Aniston", "Reese Witherspoon", "Jim Carrey", "Robin Williams", "Eddie Murphy", "Adam Sandler", "Jack Black", "Jackie Chan", "Bruce Lee",
+        "Arnold Schwarzenegger", "Sylvester Stallone", "Harrison Ford", "Samuel L. Jackson", "Matt Damon", "George Clooney", "Hugh Jackman", "Daniel Radcliffe", "Jason Momoa", "Gal Gadot",
+        "Henry Cavill", "Benedict Cumberbatch", "Mark Ruffalo", "Marilyn Monroe", "Charlie Chaplin", "Audrey Hepburn", "Clint Eastwood", "Al Pacino", "Robert De Niro", "Anthony Hopkins",
+        "Sean Connery", "Daniel Craig", "Idris Elba", "Michael B. Jordan", "Lupita Nyong'o", "Steven Spielberg", "James Cameron", "Christopher Nolan", "Tim Burton", "George Lucas",
+        "Martin Scorsese", "Greta Gerwig", "Oscar", "Walk of Fame", "Red Carpet", "Hollywood Sign", "Paparazzi", "Stunt Double", "Director's Chair", "Clapperboard",
+        "Movie Premiere", "Blockbuster", "Box Office", "Golden Globe", "Film Studio", "Screenplay", "Sequel", "Special Effects", "Green Screen", "Casting Call",
+        "Movie Trailer", "Autograph", "Limousine", "Celebrity", "Talent Agent", "Movie Star", "Award Speech", "Popcorn Bucket", "Spotlight", "Makeup Artist",
+        "Film Critic", "Movie Set", "Cameo", "Plot Twist", "Standing Ovation", "Dressing Room"
+      ]
+    },
+    {
+      "id": "cities",
+      "name": "Cities",
+      "icon": "building",
+      "description": "Famous cities across the globe",
+      "words": [
+        "Paris", "London", "New York", "Tokyo", "Rome", "Dubai", "Sydney", "Los Angeles", "Las Vegas", "San Francisco",
+        "Chicago", "Miami", "Toronto", "Vancouver", "Mexico City", "Rio de Janeiro", "Buenos Aires", "Lima", "Havana", "Cairo",
+        "Cape Town", "Nairobi", "Marrakech", "Istanbul", "Athens", "Barcelona", "Madrid", "Lisbon", "Amsterdam", "Berlin",
+        "Munich", "Vienna", "Prague", "Budapest", "Warsaw", "Moscow", "Stockholm", "Oslo", "Copenhagen", "Helsinki",
+        "Dublin", "Edinburgh", "Brussels", "Zurich", "Geneva", "Venice", "Florence", "Milan", "Naples", "Monaco",
+        "Seoul", "Beijing", "Shanghai", "Hong Kong", "Singapore", "Bangkok", "Kuala Lumpur", "Manila", "Jakarta", "Hanoi",
+        "Mumbai", "New Delhi", "Bangalore", "Kolkata", "Chennai", "Hyderabad", "Jaipur", "Karachi", "Dhaka", "Kathmandu",
+        "Colombo", "Doha", "Abu Dhabi", "Riyadh", "Melbourne", "Auckland", "Honolulu", "Boston", "Seattle", "Washington, D.C.",
+        "Houston", "New Orleans", "Nashville", "Orlando", "Montreal", "São Paulo", "Santiago", "Kyoto", "Osaka", "Taipei",
+        "Saint Petersburg", "Reykjavik", "Casablanca", "Philadelphia", "Atlanta", "Detroit", "Denver", "Quebec City", "Cancún", "Bogotá",
+        "Lagos", "Agra", "Seville", "Liverpool", "Manchester", "Perth", "Ho Chi Minh City", "Hiroshima"
+      ]
+    },
+    {
+      "id": "hobbies",
+      "name": "Hobbies",
+      "icon": "palette",
+      "description": "Pastimes, crafts and things people love to do",
+      "words": [
+        "Painting", "Drawing", "Photography", "Gardening", "Cooking", "Baking", "Knitting", "Sewing", "Crochet", "Pottery",
+        "Woodworking", "Fishing", "Hiking", "Camping", "Bird Watching", "Stargazing", "Reading", "Journaling", "Poetry", "Blogging",
+        "Podcasting", "Singing", "Dancing", "Playing Guitar", "Playing Piano", "Drumming", "DJing", "Karaoke", "Acting", "Magic Tricks",
+        "Juggling", "Origami", "Calligraphy", "Scrapbooking", "Stamp Collecting", "Coin Collecting", "Model Trains", "Video Gaming", "Board Games", "Yoga",
+        "Meditation", "Jogging", "Candle Making", "Soap Making", "Jewelry Making", "Embroidery", "Quilting", "Beekeeping", "Aquarium Keeping", "Dog Training",
+        "Volunteering", "Traveling", "Geocaching", "Metal Detecting", "Kite Flying", "Learning Languages", "Coding", "Robotics", "3D Printing", "Drone Flying",
+        "Cosplay", "Comic Books", "Movie Marathons", "Thrift Shopping", "Vinyl Records", "Bonsai", "Flower Arranging", "Hula Hooping", "Jump Rope", "Ice Skating",
+        "Street Art", "Sculpting", "Glass Blowing", "Puppetry", "Stand-Up Comedy", "Improv", "Beatboxing", "Ventriloquism", "Escape Rooms", "Trivia Nights",
+        "Picnics", "People Watching", "Napping", "Sandcastle Building", "Snowman Building", "Scuba Diving", "Snorkeling", "Foraging", "Road Trips", "Backpacking",
+        "Houseplants", "Letter Writing", "Barbecuing", "Cake Decorating", "Pilates", "Tai Chi", "Whittling", "Paper Airplanes", "Pen Pals", "Lego Building",
+        "Book Club", "Latte Art", "Jigsaw Puzzles", "Tie-Dye", "Cross-Stitch", "Video Editing"
+      ]
+    }
+  ]
+}
