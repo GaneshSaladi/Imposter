@@ -22,6 +22,10 @@
         "android.permission.MODIFY_AUDIO_SETTINGS",
         "android.permission.FOREGROUND_SERVICE",
         "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+        "android.permission.CAMERA",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
         "android.permission.CAMERA"
       ]
     },
@@ -78,6 +82,12 @@
         "projectId": "5507531f-0932-4078-83e2-32bbe0181c3c"
       }
     },
-    "owner": "ganesh_s"
+    "owner": "ganesh_s",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/5507531f-0932-4078-83e2-32bbe0181c3c"
+    }
   }
 }
